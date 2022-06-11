@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.col {
+    @apply h-24 w-24 bg-indigo-700;
+}
+
